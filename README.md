@@ -1,10 +1,10 @@
 # IPL-
 <h1>Data Visualization on IPL dataset</h1>
 
-<h4>NUmber of Matches Played in every city</h4>
+<h4>Number of Matches Played in every city</h4>
 ![Screenshot 2025-01-31 162623](https://github.com/user-attachments/assets/11bd809b-9fca-4836-ad4e-7a967cb25fcb)
 
-<h4>NUmber of matches played every year</h4>
+<h4>Number of matches played every year</h4>
 ![Screenshot 2025-01-31 162658](https://github.com/user-attachments/assets/6db5b295-0cee-4712-8397-04b4d9507726)
 
 <h4>Number of matches win by every team</h4>
