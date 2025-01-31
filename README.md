@@ -1,6 +1,5 @@
 # IPL-
-Data Visualization on IPL dataset
-
+<h1>Data Visualization on IPL dataset</h1>
 
 <h4>NUmber of Matches Played in every city</h4>
 ![Screenshot 2025-01-31 162623](https://github.com/user-attachments/assets/11bd809b-9fca-4836-ad4e-7a967cb25fcb)
